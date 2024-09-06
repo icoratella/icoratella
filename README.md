@@ -2,10 +2,7 @@
 <img src="https://github.com/icoratella/icoratella/blob/main/IlariaBioinformatics.png" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">Ilaria Coratella</div>  
-
-Hello! I'm Ilaria Coratella, currently in my second year of a Master’s degree in Bioinformatics and Biocomplexity at Utrecht University. I am specializing in Single Cell and Machine Learning. On this GitHub page, I'm tacking track of my projects. Feel free to take a look :) Enjoy!
+Hello! I'm Ilaria Coratella, currently in my second year of a Master’s degree in Bioinformatics and Biocomplexity at Utrecht University. I am specializing in Single Cell and Machine Learning. On this GitHub page, I'm taking track of my projects. Feel free to take a look :) Enjoy!
 
 - I’m currently working on [Tumor Cell Classifier](https://github.com/icoratella/Tumor-Cell-Classifier)  
   
@@ -43,13 +40,6 @@ You can contact me at ilaria.coratella@hotmail.it
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
@@ -65,11 +55,6 @@ You can contact me at ilaria.coratella@hotmail.it
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
