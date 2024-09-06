@@ -6,7 +6,7 @@
 Hi! I'm Ilaria Coratella, currently in my second year pursuing a Master’s degree in Bioinformatics and Biocomplexity at Utrecht University. I am Specializing in Machine Learning and Single Cell Analysis. Here, you will find the code for some of the most interesting projects I've worked on during my studies.  
 
 - 🔭 I’m currently working on [Tumor Cell Classifier](https://github.com/icoratella/Tumor-Cell-Classifier).
-- 
+  
 - Take a look at my [LinkedIn profile] (https://www.linkedin.com/in/ilaria-coratella/)!
   
 
