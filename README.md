@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://github.com/icoratella/icoratella/blob/main/IlariaBioinformatics.png" align="center" style="width: 100%" />
 </div>  
-  
+
+## About Me
 Hello! I'm Ilaria Coratella, currently in my second year of a Master’s degree in Bioinformatics and Biocomplexity at Utrecht University. I am specializing in Single Cell and Machine Learning. On this GitHub page, I'm taking track of my projects. Feel free to take a look :) Enjoy!
 
 - I’m currently working on [Tumor Cell Classifier](https://github.com/icoratella/Tumor-Cell-Classifier)  
