@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/icoratella/icoratella/blob/main/IlariaBioinfo.png" align="center" style="width: 100%" />
+<img src="https://github.com/icoratella/icoratella/blob/main/IlariaBioinformatics.png" align="center" style="width: 100%" />
 </div>  
   
 ## About Me 
