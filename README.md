@@ -4,7 +4,7 @@
   
 ## About Me 
 Ilaria Coratella
-Hi! I'm Ilaria Coratella, currently in my second year pursuing a Master’s degree in Bioinformatics and Biocomplexity at Utrecht University. Here, you will find the code for some of the most interesting projects I've worked on during my studies.  
+Hi! I'm Ilaria Coratella, currently in my second year pursuing a Master’s degree in Bioinformatics and Biocomplexity at Utrecht University. I am Specializing in Machine Learning and Single Cell Analysis. Here, you will find the code for some of the most interesting projects I've worked on during my studies.  
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
