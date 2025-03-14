@@ -6,8 +6,6 @@
 Hello! I'm Ilaria Coratella, currently in my second year of a Master’s degree in Bioinformatics and Biocomplexity at Utrecht University. My academic journey began with a Bachelor’s in Bioinformatics from Sapienza University of Rome, driven by my curiosity about life’s mechanisms and a passion for mathematics, which led me to computer science and algorithms. Bioinformatics is the perfect blend of my interests, allowing me to explore the complexities of biology through computational methods. 
 
 On this GitHub page, I'm taking track of my projects. Feel free to take a look :) Enjoy!
-
-- I’m currently working on [Tumor Cell Classifier](https://github.com/icoratella/Tumor-Cell-Classifier)  
   
 
 -  Take a look at my [LinkedIn](https://www.linkedin.com/in/ilaria-coratella/) profile!  
@@ -17,7 +15,7 @@ On this GitHub page, I'm taking track of my projects. Feel free to take a look :
 
   - [Bachelor's thesis: Atopic Dermatitis: An Inside Look at the Role of the Skin Microbiome](https://github.com/icoratella/Atopic-Dermatitis-Metagenomics)
 
-  - [Master's thesis: Exploring Glioblastoma Composition with Random Forest: A Core Analysis Supported by Mahalanobis Distance](https://github.com/icoratella/Tumor-Cell-Classifier)
+  - [Master's thesis: Exploring Glioblastoma Composition with Random Forest: A Core Analysis Supported by Mahalanobis Distance](https://github.com/icoratella/GBM_Cells_Classifiers)
 
   - [Bachelor's projects](https://github.com/icoratella/Sapienza-University)
   - [Master's projects](https://github.com/icoratella/Utrecht-University)
