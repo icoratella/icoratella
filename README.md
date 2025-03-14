@@ -13,9 +13,9 @@ On this GitHub page, I'm taking track of my projects. Feel free to take a look :
 
 - My works:
 
-  - [Bachelor's thesis: Atopic Dermatitis: An Inside Look at the Role of the Skin Microbiome](https://github.com/icoratella/Atopic-Dermatitis-Metagenomics)
+  - [Bachelor's thesis: Atopic Dermatitis: An inside look at the role of the skin microbiome](https://github.com/icoratella/Atopic-Dermatitis-Metagenomics)
 
-  - [Master's thesis: Exploring Glioblastoma Composition with Random Forest: A Core Analysis Supported by Mahalanobis Distance](https://github.com/icoratella/GBM_Cells_Classifiers)
+  - [Master's thesis: Classifying Glioblastoma cells based on developmental cell type resemblance](https://github.com/icoratella/GBM_Cells_Classifiers)
 
   - [Bachelor's projects](https://github.com/icoratella/Sapienza-University)
   - [Master's projects](https://github.com/icoratella/Utrecht-University)
