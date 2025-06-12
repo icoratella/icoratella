@@ -16,8 +16,8 @@ On this GitHub page, I'm taking track of my projects. Feel free to take a look :
   - [Bachelor's thesis: Atopic Dermatitis: An inside look at the role of the skin microbiome](https://github.com/icoratella/Atopic-Dermatitis-Metagenomics)
 
   - [Master's major thesis: Classifying Glioblastoma cells based on developmental cell type resemblance](https://github.com/icoratella/GBM_Cells_Classifiers)
-  - 
-  - [Master's minor thesis: Enhancing DeepRank-GNN-esm for protein-protein interaction modeling: integration of edge features and antibody-specific fine-tuning](https://github.com/icoratella/GBM_Cells_Classifiers)
+  
+  - [Master's minor thesis: Enhancing DeepRank-GNN-esm for protein-protein interaction modeling: integration of edge features and antibody-specific fine-tuning](https://github.com/icoratella/GNN_for_scoring_Ab-Ag)
 
 
   - [Bachelor's projects](https://github.com/icoratella/Sapienza-University)
